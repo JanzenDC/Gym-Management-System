@@ -1,5 +1,3 @@
-Certainly! Here’s a detailed day-by-day plan to get you started with developing your gym management system, focusing initially on the landing page and key components. This plan assumes a two-week sprint for the landing page, with subsequent weeks dedicated to core features.
-
 ### **Week 1: Landing Page Development**
 
 #### **Day 1: Planning and Setup**
