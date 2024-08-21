@@ -1,4 +1,3 @@
-```markdown
 # Gym Management System
 
 Welcome to the Gym Management System project! This system is designed to help manage gym operations, including member registration, class scheduling, and membership management. This README will guide you through the setup, development, and contribution process.
@@ -93,5 +92,3 @@ We welcome contributions to improve the Gym Management System. To contribute:
 3. Make your changes and commit (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a pull request with a detailed description of your changes.
-
-.
