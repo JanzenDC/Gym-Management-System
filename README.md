@@ -1,5 +1,3 @@
-Certainly! Below is a sample `README.md` file for your gym management system project. This file provides an overview of the project, setup instructions, and details on how to contribute.
-
 ```markdown
 # Gym Management System
 
